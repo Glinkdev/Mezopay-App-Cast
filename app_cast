@@ -1,0 +1,23 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Mezopay</title>
+<item>
+<title>Version 1.0.4</title>
+<sparkle:tags>
+<sparkle:criticalUpdate/>
+</sparkle:tags>
+<description> Bug fixes! </description>
+<pubDate>Friday, 18 February 2022 11:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.mezovest.mezopay" sparkle:version="1.0.4" sparkle:os="android"/>
+</item>
+<item>
+<title>Version 1.0.4</title>
+<sparkle:tags>
+<sparkle:criticalUpdate/>
+</sparkle:tags>
+<description> Bug fixes! </description>
+<pubDate>Friday, 18 February 2022 11:00:00 +0000</pubDate>
+<enclosure url="https://apps.apple.com/ng/app/mezopay/id1569381406" sparkle:version="1.0.4" sparkle:os="ios"/>
+</item>
+</channel>
+</rss>
